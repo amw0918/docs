@@ -34,7 +34,7 @@ $path = admin_base_path('auth/users');
 - `$options` toastr配置参数
 
 ```php
-admin_alert('更新成功', 'success');
+admin_toastr('更新成功', 'success');
 ```
 
 ### admin_success
